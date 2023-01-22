@@ -1,0 +1,11 @@
+.pokemon-card{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #e1e1e1;
+    border: 1px solid #9b9b9b;
+    padding: 12px;
+    border-radius: 30px;
+    box-shadow: inset -1px 0px 12px #aea6a6;
+    margin: 7px;
+    border-top: 7px solid #f2ff42;
+    border-bottom: 7px solid #f2ff42;
+}
